@@ -1,5 +1,5 @@
-import mentorModel from "../models/mentor";
-import studentModel from "../models/student";
+import mentorModel from "../models/mentor.js";
+import studentModel from "../models/student.js";
 
 
 const mentor = async (req, res) => {
